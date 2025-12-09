@@ -1,5 +1,17 @@
 # End-to-End-Books-Recommender-System
 
+
+## Workflow
+
+- config.yaml
+- entity
+- config/configuration.py
+- components
+- pipeline
+- main.py
+- app.py
+
+
 # How to run?
 
 ### STEP 01- Create a conda environment after opening the repository
