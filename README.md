@@ -29,3 +29,9 @@ conda activate books
 ```bash
 pip install -r requirements.txt
 ```
+
+
+### STEP 03- Run the app.py file
+```bash
+python app.py
+```
