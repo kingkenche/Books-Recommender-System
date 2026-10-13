@@ -1,6 +1,6 @@
-scikit-learn 
-pandas 
-numpy
+scikit-learn<1.3
+pandas<2.0
+numpy<2
 PyYAML
-streamlit 
+streamlit
 -e .
